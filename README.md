@@ -1,7 +1,7 @@
 # mine-pytorch
 This is about how I use pytorch
 
-- [ ] python basic and beyond (10/23)
+- [x] python basic and beyond (10/23)
 - [ ] NMT model Implement (10/25)
 - [ ] NMT model commit (10/26)
 - [ ] cousera course (10/29)
