@@ -105,3 +105,6 @@ data/
 
 #netcloudAPI
 NeteaseCloudMusicApi/
+*.csv
+*.npy
+*.bin
