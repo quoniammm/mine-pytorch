@@ -108,3 +108,6 @@ NeteaseCloudMusicApi/
 *.csv
 *.npy
 *.bin
+nn4nlp-code/
+glove6b/
+word2vec/
