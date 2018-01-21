@@ -111,3 +111,6 @@ NeteaseCloudMusicApi/
 nn4nlp-code/
 glove6b/
 word2vec/
+*.tsv
+*.gz
+*.txt
